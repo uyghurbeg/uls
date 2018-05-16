@@ -13,9 +13,6 @@ Ishlitish Usuli:
 1. Hojjetlerni Wordpress qachilanghan bash munderijige quyung
 2. www.yourdomain.xxx(sizning bekitigizning adresini)/yengila.php ni eching
 
-Misal biket:
-http://www.ukij.org/ug/
-
 shuning bilen qisturma utuqluq halda qachilinidu.
 
 Unumini korush:
@@ -31,6 +28,11 @@ www.yourdomain.xxx/?uls=us
 
 Uyghur Ereb yeziqigha qaytish uchun:
 www.yourdomain.xxx/?uls=uu
+
+
+Misal biket:
+http://www.ukij.org/ug/
+
 
 Bashqa tengshekler:
 !. Bezi uslublarda ishlimesliki mumkin;
