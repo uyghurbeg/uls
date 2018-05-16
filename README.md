@@ -1,8 +1,10 @@
 # uls
+
+![alt text](https://github.com/uyghurbeg/uls/blob/master/demo.png)
+
 A Wordpress Plugin to convert UEY to ULY/USY/TOY
 Wordpress Uchun Uyghurche Yeziqlarni almashturush qisturmisi
 
-![alt text](https://github.com/uyghurbeg/uls/blob/master/demo.png)
 
 Salam. Mezkur qisturma G.Toxti Kenji ependi teripidin yasalghan bolup, uning ruxsiti bilen, githubgha quyuldi. Kodning barliq hoquqi G.Toxti Kenji'ge mensuptur.
 
