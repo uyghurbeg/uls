@@ -13,6 +13,9 @@ Ishlitish Usuli:
 1. Hojjetlerni Wordpress qachilanghan bash munderijige quyung
 2. www.yourdomain.xxx(sizning bekitigizning adresini)/yengila.php ni eching
 
+Misal biket:
+http://www.ukij.org/ug/
+
 shuning bilen qisturma utuqluq halda qachilinidu.
 
 Unumini korush:
