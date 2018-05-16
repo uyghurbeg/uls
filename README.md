@@ -31,9 +31,13 @@ www.yourdomain.xxx/?uls=uu
 
 Bashqa tengshekler:
 !. Bezi uslublarda ishlimesliki mumkin;
-!!. Yeziq almashturush uchun herbir herpni tekshuridighan bolghachqa, bezi uzun tekst bar betlerni almashturushqa ketidighan waqit uzaq bolup ketishi mumkin, hetta betler echilmay aq bolup qelishi mumkin, bu chaghda Uyghur Ereb yeziqigha qaytish ulinishini besiwetsigiz bolidu.
-!!!. Torbiket eslidin Uyghur Ereb yeziqida putken bolushi we putunley Uyghurchigha maslashturulghan bolsa unumi teximu yaxshi.
+
+!!. Yeziq almashturush uchun herbir herpni tekshuridighan bolghachqa, bezi uzun tekst bar betlerni almashturushqa ketidighan waqit uzaq bolup ketishi mumkin, hetta betler echilmay aq bolup qelishi mumkin, bu chaghda Uyghur Ereb yeziqigha qaytish ulinishini besiwetsigiz bolidu;
+
+!!!. Torbiket eslidin Uyghur Ereb yeziqida putken bolushi we putunley Uyghurchigha maslashturulghan bolsa unumi teximu yaxshi;
+
 !!!!. Qisturmini qachilap bolup, Wordpress'ning neshiri yengilash meshghulati qilsigiz qisturma ishlimesliki mumkin, bu chaghda http://www.yourdomain.xxx/yengila.php ni besiwetsigiz ongshilidu.
+
 
 1.Ereb yeziqidin Latin/Kril yeziqigha almashqanda, herpler soldin onggha ozgirishi kirek, buning uchun soldin bashlanghan yeziqqa maslashturup bir css hojjti teyyarlang, andin uni uls.php ichige rtl.css larni quyung
 Ornek:
