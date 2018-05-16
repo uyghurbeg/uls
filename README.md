@@ -2,7 +2,8 @@
 
 ![alt text](https://github.com/uyghurbeg/uls/blob/master/demo.png)
 
-A Wordpress Plugin to convert UEY to ULY/USY/TOY
+A Wordpress Plugin to convert UEY to ULY/USY
+
 Wordpress Uchun Uyghurche Yeziqlarni almashturush qisturmisi
 
 
