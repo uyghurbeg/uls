@@ -78,7 +78,7 @@ function ayladur($out)
 ```
 УЙҒУРЧӘ(Kril yeziqidiki isim uchun):
 ```
-&#1059;&#1081;&#1171;&#1091;&#1088;&#1095;&#1241
+&#1059;&#1081;&#1171;&#1091;&#1088;&#1095;&#1241;
 ```
 Uyghurche(Latin yeziqidiki isim uchun):
 ```
