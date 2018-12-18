@@ -1,6 +1,6 @@
 <?php
 require_once "uls.php";
-$cont = file_get_contents('http://www.akademiye.org/ug/index.php');
+$cont = file_get_contents('http://www.baidu.com');
 
 $time_start = microtime(true);
 $ul=U2L($cont);
